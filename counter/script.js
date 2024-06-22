@@ -1,8 +1,8 @@
 
-const decreaseBtn = document.getElementBYId("decreasetn")
-const resetBtn = document.getElementBYId("resetBtn")
-const increaseBtn = document.getElementBYId("increaseBtn")
-const countLabel = document.getElementBYId("countLabel")
+const decreaseBtn = document.getElementBYId("decreaseBtn");
+const resetBtn = document.getElementBYId("resetBtn");
+const increaseBtn = document.getElementBYId("increaseBtn");
+const countLabel = document.getElementBYId("countLabel");
 let count = 0;
 
 increaseBtn.onclick = () =>{
